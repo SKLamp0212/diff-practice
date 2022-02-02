@@ -1,3 +1,3 @@
 # diff-practice
 FirstXXXX
-rebase-practice update on main for conflict
+rebase-practice update for rebase conflict
